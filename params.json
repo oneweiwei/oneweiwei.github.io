@@ -1,6 +1,6 @@
 {
   "name": "王威威的博客-GitHub.io",
   "tagline": "Oneweiwei.GitHub.io",
-  "body": "\r\noneweiwei的CSDN博客地址：http://blog.csdn.net/u014247890\r\n\r\n写博客，分享经验，分享技术，写下感悟，总结知识~",
+  "body": "\r\noneweiwei的CSDN博客地址：http://blog.csdn.net/u014247890\r\n\r\n使用jekyll创建博客的简单demo：https://oneweiwei.github.io/jekyll_demo/\r\n\r\n写博客，分享经验，分享技术，写下感悟，总结知识~",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
